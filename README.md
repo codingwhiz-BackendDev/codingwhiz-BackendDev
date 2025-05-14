@@ -34,6 +34,7 @@ I’m actively **open to job opportunities, internships**, and exciting tech col
 
 ## 🎉 Fun Fact
 I once turned a 404 error into a personal branding opportunity 😎 — because even my bugs deserve to shine!
+How do you comfort a JavaScript bug? You console it. 🖥️
 
 ---
 
