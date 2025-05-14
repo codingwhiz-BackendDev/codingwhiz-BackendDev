@@ -38,9 +38,11 @@ Let's build something amazing together or just vibe over tech:
 ---
 
 ## 🎉 Fun Fact
-I once turned a 404 error into a personal branding opportunity 😎 — because even my bugs deserve to shine!.
+I once turned a 404 error into a personal branding opportunity 😎 — because even my bugs deserve to shine!
 
-How do you comfort a JavaScript bug? You console it. 🖥️
+> 💡 **Dev Joke:**  
+> How do you comfort a JavaScript bug?  
+> 👉 You `console` it. 🖥️
 
 ---
 
