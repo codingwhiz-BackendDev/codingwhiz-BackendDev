@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey there, I'm Emmanuel Oluyemi — also known as 🔥 Coding Whiz 💻✌️
 
-<!--
-**codingwhiz-BackendDev/codingwhiz-BackendDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Fullstack Developer** on a mission to change the world **one line of code at a time**.  
+Whether it's designing sleek frontends or architecting powerful backends, I bring ideas to life through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack I Work With
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🌐 Connect With Me
+Let's build something amazing together or just vibe over tech:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-oluyemi-9116a4300)  
+[![X / Twitter](https://img.shields.io/badge/-@IAMCodingWhiz-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/IAMCodingWhiz)  
+🌐 [**Portfolio Website**](https://portfolio1-gray-two.vercel.app)
+
+---
+
+## 🎉 Fun Fact
+I once turned a 404 error into a personal branding opportunity 😎 — because even my bugs deserve to shine!
+
+---
+
+## 💬 Random Quote
+> **“Life is like a GitHub repo — if you don't commit, nothing will ever change.”**
+
+---
+
+### ✨ Thanks for stopping by!  
+Stay curious, keep building, and always commit to growth 🚀
