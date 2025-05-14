@@ -25,6 +25,13 @@ Let's build something amazing together or just vibe over tech:
 
 ---
 
+## 💼 Open to Opportunities
+I’m actively **open to job opportunities, internships**, and exciting tech collaborations.  
+📧 **Email:** [e8060097@gmail.com](mailto:e8060097@gmail.com)  
+📞 **Phone:** +234 807 284 6035
+
+---
+
 ## 🎉 Fun Fact
 I once turned a 404 error into a personal branding opportunity 😎 — because even my bugs deserve to shine!
 
