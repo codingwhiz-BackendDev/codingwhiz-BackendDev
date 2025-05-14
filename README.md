@@ -14,6 +14,14 @@ Whether it's designing sleek frontends or architecting powerful backends, I brin
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### ☁️ Deployment & Hosting
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
+
 ---
 
 ## 🌐 Connect With Me
@@ -23,17 +31,14 @@ Let's build something amazing together or just vibe over tech:
 [![X / Twitter](https://img.shields.io/badge/-@IAMCodingWhiz-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/IAMCodingWhiz)  
 🌐 [**Portfolio Website**](https://portfolio1-gray-two.vercel.app)
 
----
-
-## 💼 Open to Opportunities
-I’m actively **open to job opportunities, internships**, and exciting tech collaborations.  
-📧 **Email:** [e8060097@gmail.com](mailto:e8060097@gmail.com)  
-📞 **Phone:** +234 807 284 6035
+📧 Email: e8060097@gmail.com  
+📞 Phone: +234 807 284 6035  
+🚀 **Open to work and internship opportunities!**
 
 ---
 
 ## 🎉 Fun Fact
-I once turned a 404 error into a personal branding opportunity 😎 — because even my bugs deserve to shine.!
+I once turned a 404 error into a personal branding opportunity 😎 — because even my bugs deserve to shine!.
 
 How do you comfort a JavaScript bug? You console it. 🖥️
 
