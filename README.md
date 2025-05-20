@@ -13,6 +13,11 @@ Whether it's designing sleek frontends or architecting powerful backends, I brin
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### 🗄️ Databases
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
@@ -21,6 +26,27 @@ Whether it's designing sleek frontends or architecting powerful backends, I brin
 ### ☁️ Deployment & Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codingwhiz-BackendDev&show_icons=true&theme=radical)
+
+## 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingwhiz-BackendDev&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=codingwhiz-BackendDev&theme=radical)](https://github.com/IAMCodingWhiz)
+
+---
+
+ ## 📦 Top Contributed Repos
+
+[![VidScribe](https://github-readme-stats.vercel.app/api/pin/?username=codingwhiz-BackendDev&repo=VidScribe&theme=radical)](https://github.com/codingwhiz-BackendDev/VidScribe)  
+[![WhisperZone](https://github-readme-stats.vercel.app/api/pin/?username=codingwhiz-BackendDev&repo=WhisperZone&theme=radical)](https://github.com/codingwhiz-BackendDev/WhisperZone)  
+[![EasyShare](https://github-readme-stats.vercel.app/api/pin/?username=codingwhiz-BackendDev&repo=EasyShare&theme=radical)](https://github.com/codingwhiz-BackendDev/EasyShare)  
+[![Speedy-Download](https://github-readme-stats.vercel.app/api/pin/?username=codingwhiz-BackendDev&repo=Speedy-Download&theme=radical)](https://github.com/codingwhiz-BackendDev/Speedy-Download)  
+[![RunSchoolHub](https://github-readme-stats.vercel.app/api/pin/?username=codingwhiz-BackendDev&repo=RunSchoolHub&theme=radical)](https://github.com/codingwhiz-BackendDev/RunSchoolHub)
 
 ---
 
