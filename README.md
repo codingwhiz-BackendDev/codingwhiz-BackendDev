@@ -30,13 +30,13 @@ Whether it's designing sleek frontends or architecting powerful backends, I brin
 ---
 
 ## 📊 GitHub Stats
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codingwhiz-BackendDev&show_icons=true&theme=radical)
+![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IAMCodingWhiz&show_icons=true&theme=radical)
 
 ## 📈 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingwhiz-BackendDev&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=codingwhiz-BackendDev&theme=radical)](https://github.com/IAMCodingWhiz)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=codingwhiz-BackendDev&theme=radical)](https://github.com/codingwhiz-BackendDev)
 
 ---
 
