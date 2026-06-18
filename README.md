@@ -1,6 +1,9 @@
 <div align="center">
 
-## Emmanuel Oluyemi — CodingWhiz 🔥
+# Emmanuel Oluyemi
+### a.k.a **CodingWhiz** 🔥
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=620&lines=Backend-first+Fullstack+Engineer;Solo-ships+full+products+in+48hrs;Integrates+AI+before+it's+trendy;Currently+juggling+3+startups+%2B+client+work" alt="Typing SVG" />
 
 [![X](https://img.shields.io/badge/@IAmCodingWhiz-0D1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/IAmCodingWhiz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/emmanuel-oluyemi-9116a4300/)
@@ -28,22 +31,56 @@ AI          Claude API · Gemini AI
 PAYMENTS    Paystack · Stripe · Flutterwave · Nomba
 MESSAGING   Twilio · Telegram Bot API
 STATUS      [ ██████████████████████ ] ACTIVELY BUILDING
+UPTIME      48hrs no sleep, 0 production fires
 
 EDGE        Solo-ships full products in 48hrs.
             Integrates AI before it's trendy.
+            Reads a spec once, builds it right the first time.
             Knows the difference between code that works
             and code that lasts.
 ```
 
 ---
 
-## ⚡ Arsenal
+## 🧠 How I Operate
+
+> *"I don't ship features. I ship systems that survive contact with production."*
+> — CodingWhiz 🔥
+
+> *"Make it work, make it right, make it fast."*
+> — Kent Beck
+
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson
+
+> *"Sleep is optional. Technical debt is not."*
+> — CodingWhiz 🔥
+
+**Non-negotiables:**
+- 🏗️ Architecture before code — no scaffolding regrets at 2am
+- ⚡ Ship in days, not sprints
+- 🤖 AI as a force-multiplier, never a crutch
+- 🧩 If it doesn't scale, it doesn't ship
+- 🔍 If a senior engineer wouldn't approve the PR, neither would I
+
+---
+
+## 🎨 Live Portfolio
 
 <div align="center">
 
-[![Portfolio Preview](https://api.microlink.io/?url=https://portfolio1-gray-two.vercel.app&screenshot=true&meta=false&embed=screenshot.url)](https://readme-portfolio.vercel.app/)
+<!-- Swap this line for a GIF of you orbiting the 3D scene once recorded — static screenshots can't show WebGL motion -->
+[![Portfolio Preview](https://api.microlink.io/?url=https://portfolio1-gray-two.vercel.app&screenshot=true&meta=false&embed=screenshot.url)](https://portfolio1-gray-two.vercel.app)
 
-**[→ View Live 3D Portfolio](https://readme-portfolio.vercel.app/)**
+### **[→ Step into the 3D Portfolio](https://portfolio1-gray-two.vercel.app)**
+
+</div>
+
+---
+
+## ⚡ Arsenal
+
+<div align="center">
 
 **Languages**
 
@@ -184,5 +221,7 @@ EDGE        Solo-ships full products in 48hrs.
 ```
 
 `+234 807 284 6035` &nbsp;·&nbsp; **Open to internships · freelance · full-time**
+
+⭐ **From a single idea to a deployed product — that's the whole job.**
 
 </div>
