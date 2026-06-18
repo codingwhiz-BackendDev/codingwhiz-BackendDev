@@ -1,28 +1,16 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    ██████╗ ██████╗ ██████╗ ██╗███╗   ██╗ ██████╗               ║
-║   ██╔════╝██╔═══██╗██╔══██╗██║████╗  ██║██╔════╝               ║
-║   ██║     ██║   ██║██║  ██║██║██╔██╗ ██║██║  ███╗              ║
-║   ██║     ██║   ██║██║  ██║██║██║╚██╗██║██║   ██║              ║
-║   ╚██████╗╚██████╔╝██████╔╝██║██║ ╚████║╚██████╔╝              ║
-║    ╚═════╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝              ║
-║                                                                  ║
-║           W  H  I  Z                                            ║
-║                                                                  ║
-║   Emmanuel Oluyemi  ·  Fullstack Engineer  ·  Nigeria 🇳🇬        ║
-║   Building products. Shipping systems. Making it count.         ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+## Emmanuel Oluyemi — CodingWhiz 🔥
+
+[![X](https://img.shields.io/badge/@IAmCodingWhiz-0D1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/IAmCodingWhiz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/emmanuel-oluyemi-9116a4300/)
+[![Portfolio](https://img.shields.io/badge/3D_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF87)](https://portfolio1-gray-two.vercel.app)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:e8060097@gmail.com)
+[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-00FF41?style=for-the-badge&labelColor=0D1117)](mailto:e8060097@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=codingwhiz-BackendDev&style=flat-square&color=00FF41&label=profile+views&labelColor=0D1117)](https://github.com/codingwhiz-BackendDev)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/codingwhiz-BackendDev?style=flat-square&color=00D9FF&labelColor=0D1117&label=followers)](https://github.com/codingwhiz-BackendDev?tab=followers)
-&nbsp;
-[![Open to Work](https://img.shields.io/badge/open%20to%20work-00FF41?style=flat-square&labelColor=0D1117&color=00FF41)](mailto:e8060097@gmail.com)
 
 </div>
 
@@ -59,7 +47,6 @@ EDGE        Solo-ships full products in 48hrs.
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 **Frontend & Mobile**
 
@@ -91,6 +78,7 @@ EDGE        Solo-ships full products in 48hrs.
 ![Gemini](https://img.shields.io/badge/Gemini_AI-0D1117?style=for-the-badge&logo=google&logoColor=4285F4)
 ![Stripe](https://img.shields.io/badge/Stripe-0D1117?style=for-the-badge&logo=stripe&logoColor=635BFF)
 ![Paystack](https://img.shields.io/badge/Paystack-0D1117?style=for-the-badge&logo=paystack&logoColor=00C3F7)
+![Nomba](https://img.shields.io/badge/Nomba-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-0D1117?style=for-the-badge&logo=twilio&logoColor=F22F46)
 
 </div>
@@ -101,7 +89,7 @@ EDGE        Solo-ships full products in 48hrs.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codingwhiz-BackendDev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codingwhiz-BackendDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00D9FF&text_color=C9D1D9"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwhiz-BackendDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8"/>
 
@@ -139,51 +127,31 @@ EDGE        Solo-ships full products in 48hrs.
 
 ```json
 {
-  "codingwhiz": {
-    "mode": "BUILDER",
-    "shipping": [
-
-      {
-        "id": "01",
-        "project": "DjangoPilot",
-        "tagline": "AI software engineer + system architect for Django developers",
-        "what": [
-          "AI-powered developer platform for Django backend & fullstack apps",
-          "Acts like a senior engineer — not just a code snippet generator",
-          "Plans architecture, scaffolds structure, thinks in systems"
-        ],
-        "stack": ["Django", "Claude API", "Python"],
-        "status": "In Development 🔨"
-      },
-
-      {
-        "id": "02",
-        "project": "Kairo",
-        "tagline": "The AI that manages your time like a chief of staff",
-        "what": [
-          "Plans your day with full AI reasoning",
-          "Keeps you accountable and adapts when life changes",
-          "Helps you consistently hit your goals — not just set them"
-        ],
-        "stack": ["Django", "HTMX", "Alpine.js", "Claude API", "Telegram Bot"],
-        "status": "In Development 🔨"
-      },
-
-      {
-        "id": "03",
-        "project": "Sellaris AI",
-        "tagline": "Your company's brain, deployed as a customer support agent",
-        "what": [
-          "Reads your website, docs, FAQs, databases and policies",
-          "Responds like a real customer support rep — 24/7",
-          "Deployable on any business website"
-        ],
-        "stack": ["Django", "Claude API", "PostgreSQL", "RAG"],
-        "status": "In Development 🔨"
-      }
-
-    ]
-  }
+  "projects": [
+    {
+      "name": "DjangoPilot",
+      "tagline": "AI software engineer + system architect for Django developers",
+      "description": "AI-powered developer platform for Django backend & fullstack apps. Plans architecture, scaffolds structure, thinks in systems — not just a snippet generator.",
+      "stack": ["Django", "Claude API", "Python"],
+      "status": "In Development 🔨"
+    },
+    {
+      "name": "Kairo",
+      "tagline": "The AI that manages your time like a chief of staff",
+      "description": "Plans your day with full AI reasoning. Keeps you accountable, adapts when life changes. Helps you consistently hit goals — not just set them.",
+      "stack": ["Django", "HTMX", "Alpine.js", "Claude API", "Telegram Bot"],
+      "status": "In Development 🔨"
+    },
+    {
+      "name": "Sellaris AI",
+      "tagline": "Your company's brain deployed as a customer support agent",
+      "description": "Reads your website, docs, FAQs, databases and policies. Responds like a real support rep 24/7. Not a generic chatbot — a trained agent that knows your business.",
+      "stack": ["Django", "Claude API", "PostgreSQL", "RAG"],
+      "status": "In Development 🔨"
+    }
+  ],
+  "open_to": ["internships", "freelance", "full-time", "hackathons"],
+  "availability": "IMMEDIATE 🟢"
 }
 ```
 
@@ -203,28 +171,14 @@ EDGE        Solo-ships full products in 48hrs.
 
 ---
 
-## 🤝 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Oluyemi-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/emmanuel-oluyemi-9116a4300/)
-[![X](https://img.shields.io/badge/X-@IAmCodingWhiz-0D1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/IAmCodingWhiz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-codingwhiz-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://portfolio1-gray-two.vercel.app)
-[![Email](https://img.shields.io/badge/Email-e8060097@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:e8060097@gmail.com)
-
-`+234 807 284 6035` &nbsp;·&nbsp; **Open to internships · freelance · full-time roles**
-
-</div>
-
----
-
 <div align="center">
 
 ```
 "Most developers write code.
  I build systems that outlive the deadline."
-
-                                        — CodingWhiz 🔥
+                              — CodingWhiz 🔥
 ```
+
+`+234 807 284 6035` &nbsp;·&nbsp; **Open to internships · freelance · full-time**
 
 </div>
