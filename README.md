@@ -69,8 +69,7 @@ EDGE        Solo-ships full products in 48hrs.
 
 <div align="center">
 
-<!-- Swap this line for a GIF of you orbiting the 3D scene once recorded — static screenshots can't show WebGL motion -->
-[![Portfolio Preview](https://api.microlink.io/?url=https://portfolio1-gray-two.vercel.app&screenshot=true&meta=false&embed=screenshot.url)](https://portfolio1-gray-two.vercel.app)
+<!-- Drop a GIF of you orbiting the 3D scene here once recorded, e.g.: ![Portfolio Demo](./assets/portfolio-demo.gif) -->
 
 ### **[→ Step into the 3D Portfolio](https://portfolio1-gray-two.vercel.app)**
 
@@ -130,7 +129,7 @@ EDGE        Solo-ships full products in 48hrs.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codingwhiz-BackendDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codingwhiz-BackendDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00D9FF&text_color=C9D1D9"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwhiz-BackendDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8"/>
 
