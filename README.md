@@ -41,6 +41,10 @@ EDGE        Solo-ships full products in 48hrs.
 
 <div align="center">
 
+[![Portfolio Preview](https://api.microlink.io/?url=https://portfolio1-gray-two.vercel.app&screenshot=true&meta=false&embed=screenshot.url)](https://portfolio1-gray-two.vercel.app)
+
+**[→ View Live 3D Portfolio](https://portfolio1-gray-two.vercel.app)**
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
