@@ -129,7 +129,7 @@ EDGE        Solo-ships full products in 48hrs.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codingwhiz-BackendDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codingwhiz-BackendDev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00D9FF&text_color=C9D1D9"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwhiz-BackendDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8"/>
 
