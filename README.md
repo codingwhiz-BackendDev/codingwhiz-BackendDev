@@ -41,9 +41,9 @@ EDGE        Solo-ships full products in 48hrs.
 
 <div align="center">
 
-[![Portfolio Preview](https://api.microlink.io/?url=https://portfolio1-gray-two.vercel.app&screenshot=true&meta=false&embed=screenshot.url)](https://portfolio1-gray-two.vercel.app)
+[![Portfolio Preview](https://api.microlink.io/?url=https://portfolio1-gray-two.vercel.app&screenshot=true&meta=false&embed=screenshot.url)](https://readme-portfolio.vercel.app/)
 
-**[→ View Live 3D Portfolio](https://portfolio1-gray-two.vercel.app)**
+**[→ View Live 3D Portfolio](https://readme-portfolio.vercel.app/)**
 
 **Languages**
 
